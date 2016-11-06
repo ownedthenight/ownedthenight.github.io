@@ -1,5 +1,5 @@
-# We Owned the Night
+# Zog's website
 
-This website is available at http://weownedthenight.tk
+This website is available at http://zogthealien.tk
 
 
